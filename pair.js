@@ -57,19 +57,19 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Black_Castro.sendMessage(Pair_Code_By_Black_Castro.user.id, { text: '' + b64data });
 
                let GHOST_MD_TEXT = `
-____________________________
-        𝐕𝐄𝐍𝐎𝐌-𝐌𝐃 
+__________________________________________
+       𝐕𝐄𝐍𝐎𝐌_𝐌𝐃
 ____________________________
 ╔════◇
-║『 *WELCOME TO VENOM-MD* 』
-║  NOW YOU CAN DEPLOY🥳
-║
+║『 *WELCOME,,THIS IS VENOM-MD* 』
+║ You've Completed the First Step
+║ to Deploy a Whatsapp Bot.
 ╚════════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ 𝐎𝐰𝐧𝐞𝐫: https://wa.me/254737991043
 ║❒ 𝐑𝐞𝐩𝐨: https://github.com/Hammy254/VENOM_MD
-║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029Vabz7vUJ3jutx2fNsf2P
+║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://whatsapp.com/channel/0029Vabz7vUJ3jutx2fNsf2P
 ║ 💜💜💜
 ╚════════════════╝
 Don't Forget To Give Star⭐ To My Repo`
