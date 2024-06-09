@@ -58,12 +58,12 @@ router.get('/', async (req, res) => {
 
                let GHOST_MD_TEXT = `
 ____________________________
-        𝐕𝐄𝐍𝐎𝐌_𝐌𝐃 
+        𝐕𝐄𝐍𝐎𝐌-𝐌𝐃 
 ____________________________
 ╔════◇
-║『 *YOU'VE CHOSEN VENOM_MD* 』
-║ You've Completed the First Step
-║ to Deploy a Whatsapp Bot.
+║『 *WELCOME TO VENOM-MD* 』
+║  NOW YOU CAN DEPLOY🥳
+║
 ╚════════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
