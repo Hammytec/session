@@ -60,17 +60,17 @@ router.get('/', async (req, res) => {
 	
 				   let GHOST_MD_TEXT = `
 ____________________________
-       𝐕𝐄𝐍𝐎𝐌-𝐌𝐃
+       ALMIGHTY-𝐌𝐃
 ____________________________
 ╔════◇
-║『 *WELCOME,🥳THIS IS VENOM-MD* 』
+║『 *WELCOME,🥳THIS IS ALMIGHTY-MD* 』
 ║ You've Completed the First Step
 ║ to Deploy a Whatsapp Bot.
 ╚════════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ 𝐎𝐰𝐧𝐞𝐫: https://wa.me/254737991043
-║❒ 𝐑𝐞𝐩𝐨: https://github.com/Hammy254/VENOM-MD
+║❒ 𝐑𝐞𝐩𝐨: https://github.com/Hammytec/ALMIGHTY-MD
 ║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://whatsapp.com/channel/0029Vagq4pN9hXEy6SpCDi0X
 ║ 💜💜💜
 ╚════════════════╝
