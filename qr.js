@@ -59,22 +59,21 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Black_Castro.sendMessage(Qr_Code_By_Black_Castro.user.id, { text: '' + b64data });
 	
 				   let GHOST_MD_TEXT = `
-____________________________
-       ALMIGHTY-𝐌𝐃
+__________________________________________
+       𝐀𝐋𝐎𝐍𝐄-𝐌𝐃
 ____________________________
 ╔════◇
-║『 *WELCOME,🥳THIS IS ALMIGHTY-MD* 』
-║ You've Completed the First Step
-║ to Deploy a Whatsapp Bot.
+║『』
+║ You've Completed pairing.
 ╚════════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ 𝐎𝐰𝐧𝐞𝐫: https://wa.me/254737991043
-║❒ 𝐑𝐞𝐩𝐨: https://github.com/Hammytec/ALMIGHTY-MD
+║❒ 𝐑𝐞𝐩𝐨: https://github.com/Hammytec/ALONE-MD
 ║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://whatsapp.com/channel/0029Vagq4pN9hXEy6SpCDi0X
-║ 💜💜💜
+║ 
 ╚════════════════╝
-Don't Forget To Give Star⭐ To My Repo`
+Fork and Give Star To My Repo`
 	 await Qr_Code_By_Black_Castro.sendMessage(Qr_Code_Black_Castro.user.id,{text:GHOST_MD_TEXT},{quoted:session})
 
 
