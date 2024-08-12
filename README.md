@@ -1,4 +1,4 @@
-<h1 align="center"> GHOST-MD PAIRING CODE </h1>
+<h1 align="center"> ALONE-MD PAIRING CODE </h1>
 
   <html>
    <body>
